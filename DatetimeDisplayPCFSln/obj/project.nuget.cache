@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "E7Hm21wkwhSohL6uYWHE1hjdcgfYxhx3WLKMBpqn+vd0girxQz/nHU3XgL2olkFTxXxmZmJ4OnjeOo79RWZJFA==",
+  "success": true,
+  "projectFilePath": "C:\\DatetimeDisplayPCF\\DatetimeDisplayPCFSln\\DatetimeDisplayPCFSln.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merchr\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\merchr\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\merchr\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.17.4\\microsoft.powerapps.msbuild.pcf.1.17.4.nupkg.sha512",
+    "C:\\Users\\merchr\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.17.4\\microsoft.powerapps.msbuild.solution.1.17.4.nupkg.sha512"
+  ],
+  "logs": []
+}

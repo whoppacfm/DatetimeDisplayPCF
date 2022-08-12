@@ -1,0 +1,54 @@
+2022-08-12 07:41:15.775 - Info	
+Packing C:\DatetimeDisplayPCF\DatetimeDisplayPCFSln\obj\Debug\Metadata to bin\Debug\DatetimeDisplayPCFSln.zip
+
+2022-08-12 07:41:15.791 - Info	Processing Component: Entities
+2022-08-12 07:41:15.791 - Info	Processing Component: Roles
+2022-08-12 07:41:15.806 - Info	Processing Component: Workflows
+2022-08-12 07:41:15.806 - Info	Processing Component: FieldSecurityProfiles
+2022-08-12 07:41:15.806 - Info	Processing Component: Templates
+2022-08-12 07:41:15.806 - Info	Processing Component: EntityMaps
+2022-08-12 07:41:15.806 - Info	Processing Component: EntityRelationships
+2022-08-12 07:41:15.806 - Info	Processing Component: OrganizationSettings
+2022-08-12 07:41:15.822 - Info	Processing Component: optionsets
+2022-08-12 07:41:15.822 - Info	Processing Component: CustomControls
+2022-08-12 07:41:15.829 - Info	 - DatetimeDisplayPCF.DatetimeDisplayPCF
+2022-08-12 07:41:15.829 - Info	Processing Component: SolutionPluginAssemblies
+2022-08-12 07:41:15.829 - Info	Processing Component: EntityDataProviders
+2022-08-12 07:41:15.907 - Info	
+Unmanaged Pack complete.
+
+2022-08-12 07:42:33.074 - Info	
+Packing C:\DatetimeDisplayPCF\DatetimeDisplayPCFSln\obj\Debug\Metadata to bin\Debug\DatetimeDisplayPCFSln.zip and bin\Debug\DatetimeDisplayPCFSln_managed.zip
+
+2022-08-12 07:42:33.089 - Info	Processing Component: Entities
+2022-08-12 07:42:33.089 - Info	Processing Component: Roles
+2022-08-12 07:42:33.089 - Info	Processing Component: Workflows
+2022-08-12 07:42:33.089 - Info	Processing Component: FieldSecurityProfiles
+2022-08-12 07:42:33.089 - Info	Processing Component: Templates
+2022-08-12 07:42:33.089 - Info	Processing Component: EntityMaps
+2022-08-12 07:42:33.089 - Info	Processing Component: EntityRelationships
+2022-08-12 07:42:33.105 - Info	Processing Component: OrganizationSettings
+2022-08-12 07:42:33.105 - Info	Processing Component: optionsets
+2022-08-12 07:42:33.105 - Info	Processing Component: CustomControls
+2022-08-12 07:42:33.120 - Info	 - DatetimeDisplayPCF.DatetimeDisplayPCF
+2022-08-12 07:42:33.120 - Info	Processing Component: SolutionPluginAssemblies
+2022-08-12 07:42:33.120 - Info	Processing Component: EntityDataProviders
+2022-08-12 07:42:33.208 - Info	
+Unmanaged Pack complete.
+
+2022-08-12 07:42:33.208 - Info	Processing Component: Entities
+2022-08-12 07:42:33.208 - Info	Processing Component: Roles
+2022-08-12 07:42:33.208 - Info	Processing Component: Workflows
+2022-08-12 07:42:33.208 - Info	Processing Component: FieldSecurityProfiles
+2022-08-12 07:42:33.208 - Info	Processing Component: Templates
+2022-08-12 07:42:33.208 - Info	Processing Component: EntityMaps
+2022-08-12 07:42:33.208 - Info	Processing Component: EntityRelationships
+2022-08-12 07:42:33.208 - Info	Processing Component: OrganizationSettings
+2022-08-12 07:42:33.208 - Info	Processing Component: optionsets
+2022-08-12 07:42:33.208 - Info	Processing Component: CustomControls
+2022-08-12 07:42:33.224 - Info	 - DatetimeDisplayPCF.DatetimeDisplayPCF
+2022-08-12 07:42:33.224 - Info	Processing Component: SolutionPluginAssemblies
+2022-08-12 07:42:33.224 - Info	Processing Component: EntityDataProviders
+2022-08-12 07:42:33.289 - Info	
+Managed Pack complete.
+

@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\DatetimeDisplayPCF\\DatetimeDisplayPCFSln\\DatetimeDisplayPCFSln.cdsproj": {}
+  },
+  "projects": {
+    "C:\\DatetimeDisplayPCF\\DatetimeDisplayPCF.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DatetimeDisplayPCF\\DatetimeDisplayPCF.pcfproj",
+        "projectName": "DatetimeDisplayPCF",
+        "projectPath": "C:\\DatetimeDisplayPCF\\DatetimeDisplayPCF.pcfproj",
+        "packagesPath": "C:\\Users\\merchr\\.nuget\\packages\\",
+        "outputPath": "C:\\DatetimeDisplayPCF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\merchr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\DatetimeDisplayPCF\\DatetimeDisplayPCFSln\\DatetimeDisplayPCFSln.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\DatetimeDisplayPCF\\DatetimeDisplayPCFSln\\DatetimeDisplayPCFSln.cdsproj",
+        "projectName": "DatetimeDisplayPCFSln",
+        "projectPath": "C:\\DatetimeDisplayPCF\\DatetimeDisplayPCFSln\\DatetimeDisplayPCFSln.cdsproj",
+        "packagesPath": "C:\\Users\\merchr\\.nuget\\packages\\",
+        "outputPath": "C:\\DatetimeDisplayPCF\\DatetimeDisplayPCFSln\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\merchr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\DatetimeDisplayPCF\\DatetimeDisplayPCF.pcfproj": {
+                "projectPath": "C:\\DatetimeDisplayPCF\\DatetimeDisplayPCF.pcfproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
