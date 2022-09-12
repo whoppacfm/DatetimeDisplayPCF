@@ -5,8 +5,6 @@ import * as ReactDOM from 'react-dom';
 
 function DatetimeDisplay(props:any) {
 
-    debugger;
-
     const [currentDateValue, setCurrentDateValue] = React.useState({ 
         datevalue: new Date(props.initialValue)
       });
@@ -24,7 +22,6 @@ function DatetimeDisplay(props:any) {
     let scurDate = isoDateTime.substring(0, 10); //yyyy-mm-dd;
     
     function onchangefunction(param:any) {
-        debugger;
         let newval = new Date(param.currentTarget.value);
         newval.setTime(newval.getTime() + 1 * 60 * 60 * 1000);
         props.theobj.newvalue = newval;
